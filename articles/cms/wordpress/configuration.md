@@ -1,5 +1,8 @@
 ---
 description: How to configure WordPress as a application with Auth0.
+tags:
+    - wordpress
+    - cms
 ---
 
 # Configuration of the Login by Auth0 WordPress Plugin
