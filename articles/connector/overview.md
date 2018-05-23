@@ -1,5 +1,7 @@
 ---
 description: An overview of what the AD/LDAP Connector is and why it's necessary.
+tags:
+  - connector
 ---
 
 # Overview
