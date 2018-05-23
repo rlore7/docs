@@ -1,5 +1,10 @@
 ---
 title: Using Passwordless Authentication in a Regular Web App with SMS
+tags:
+    - connections
+    - web-apps
+    - passwordless
+    - sms
 ---
 # Authenticate users with a one-time code via SMS in a Regular Web App
 

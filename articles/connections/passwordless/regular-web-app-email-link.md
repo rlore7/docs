@@ -1,5 +1,10 @@
 ---
 title: Using Passwordless Authentication with a magic link via email on Regular Web Apps
+tags:
+    - connections
+    - web-apps
+    - passwordless
+    - email
 ---
 # Passwordless Authentication with a magic link via e-mail on Regular Web Apps
 
